@@ -1,6 +1,6 @@
 # Olimpiada Nacional USAC 2017
 
-Este sistema fue diseñado para facilitar la recopilacion y seleccion de datos en la Olimpiada Nacional de Ciencias, llevada a cabo en el departamento de Santa Rosa, Guatemala.
+Este sistema fue diseñado para facilitar la recopilacion y seleccion de datos en la Olimpiada Nacional de Ciencias, llevada a cabo en el departamento de Santa Rosa, Guatemala en julio del 2017.
 
 ## Construida por
 
