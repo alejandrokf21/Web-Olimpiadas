@@ -1,0 +1,323 @@
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\ApplicationInsights.config
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\csc.exe
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\csc.exe.config
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\csc.rsp
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\csi.exe
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\csi.rsp
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\System.AppContext.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\System.Collections.Immutable.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\System.IO.FileSystem.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\vbc.exe
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\vbc.exe.config
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\vbc.rsp
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\VBCSCompiler.exe
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\VBCSCompiler.exe.config
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\WebApplicationOlimpiadas.dll.config
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\WebApplicationOlimpiadas.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\WebApplicationOlimpiadas.pdb
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Antlr3.Runtime.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.Web.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.WindowsServer.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.ApplicationInsights.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.Web.Infrastructure.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Newtonsoft.Json.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.Helpers.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.Mvc.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.Optimization.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.Razor.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.WebPages.Deployment.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.WebPages.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.WebPages.Razor.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\WebGrease.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.Helpers.xml
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.Mvc.xml
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.Optimization.xml
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.Razor.xml
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.WebPages.xml
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.WebPages.Deployment.xml
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.WebPages.Razor.xml
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Antlr3.Runtime.pdb
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Newtonsoft.Json.xml
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.ApplicationInsights.xml
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.WindowsServer.xml
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.Web.xml
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\es\System.Web.Helpers.resources.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\es\System.Web.Mvc.resources.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\es\System.Web.Optimization.resources.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\es\System.Web.Razor.resources.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\es\System.Web.WebPages.resources.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\obj\Debug\WebApplicationOlimpiadas.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\obj\Debug\WebApplicationOlimpiadas.pdb
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\EntityFramework.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\EntityFramework.SqlServer.dll
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\EntityFramework.xml
+c:\users\loscordonhdez\documents\visual studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\EntityFramework.SqlServer.xml
+C:\Users\Loscordonhdez\Documents\Visual Studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\obj\Debug\WebApplicationOlimpiadas.Migrations.InitialCreate.resources
+C:\Users\Loscordonhdez\Documents\Visual Studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\obj\Debug\WebApplicationOlimpiadas.csproj.GenerateResource.Cache
+C:\Users\Loscordonhdez\Documents\Visual Studio 2017\Projects\WebApplicationOlimpiadas\WebApplicationOlimpiadas\obj\Debug\WebApplicationOlimpiadas.Migrations.Initial.resources
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\ApplicationInsights.config
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\csc.exe
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\csc.exe.config
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\csc.rsp
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\csi.exe
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\csi.rsp
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\System.AppContext.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\System.Collections.Immutable.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\System.IO.FileSystem.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\System.Reflection.Metadata.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\vbc.exe
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\vbc.exe.config
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\vbc.rsp
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\VBCSCompiler.exe
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\VBCSCompiler.exe.config
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\WebApplicationOlimpiadas.dll.config
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\WebApplicationOlimpiadas.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\WebApplicationOlimpiadas.pdb
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Antlr3.Runtime.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\EntityFramework.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\EntityFramework.SqlServer.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.Agent.Intercept.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.DependencyCollector.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.Web.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.WindowsServer.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.ApplicationInsights.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.Web.Infrastructure.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Newtonsoft.Json.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.Helpers.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.Mvc.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.Optimization.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.Razor.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.WebPages.Deployment.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.WebPages.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.WebPages.Razor.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\WebGrease.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\EntityFramework.xml
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\EntityFramework.SqlServer.xml
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.Helpers.xml
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.Mvc.xml
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.Optimization.xml
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.Razor.xml
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.WebPages.xml
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.WebPages.Deployment.xml
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.WebPages.Razor.xml
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Antlr3.Runtime.pdb
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Newtonsoft.Json.xml
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.ApplicationInsights.xml
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.DependencyCollector.xml
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.WindowsServer.xml
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.Web.xml
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\es\System.Web.Helpers.resources.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\es\System.Web.Mvc.resources.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\es\System.Web.Optimization.resources.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\es\System.Web.Razor.resources.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\es\System.Web.WebPages.resources.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\obj\Debug\WebApplicationOlimpiadas.csprojResolveAssemblyReference.cache
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\obj\Debug\WebApplicationOlimpiadas.Migrations.InitialCreate.resources
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\obj\Debug\WebApplicationOlimpiadas.Migrations.Initial.resources
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\obj\Debug\WebApplicationOlimpiadas.csproj.GenerateResource.Cache
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\obj\Debug\WebApplicationOlimpiadas.dll
+E:\WebApplicationOlimpiadas\WebApplicationOlimpiadas\obj\Debug\WebApplicationOlimpiadas.pdb
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\ApplicationInsights.config
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\csc.exe
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\csc.exe.config
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\csc.rsp
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\csi.exe
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\csi.rsp
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\System.AppContext.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\vbc.exe
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\vbc.exe.config
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\vbc.rsp
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\WebApplicationOlimpiadas.dll.config
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\WebApplicationOlimpiadas.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\WebApplicationOlimpiadas.pdb
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Antlr3.Runtime.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\EntityFramework.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\EntityFramework.SqlServer.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.Web.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Newtonsoft.Json.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.Helpers.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.Mvc.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.Optimization.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.Razor.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.WebPages.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\WebGrease.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\EntityFramework.xml
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\EntityFramework.SqlServer.xml
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.Helpers.xml
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.Mvc.xml
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.Optimization.xml
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.Razor.xml
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.WebPages.xml
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Antlr3.Runtime.pdb
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Newtonsoft.Json.xml
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.Web.xml
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\es\System.Web.Razor.resources.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\obj\Debug\WebApplicationOlimpiadas.csprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\obj\Debug\WebApplicationOlimpiadas.Migrations.InitialCreate.resources
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\obj\Debug\WebApplicationOlimpiadas.Migrations.Initial.resources
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\obj\Debug\WebApplicationOlimpiadas.csproj.GenerateResource.Cache
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\obj\Debug\WebApplicationOlimpiadas.dll
+C:\Users\Alejandro\Documents\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\obj\Debug\WebApplicationOlimpiadas.pdb
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\ApplicationInsights.config
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\csc.exe
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\csc.exe.config
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\csc.rsp
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\csi.exe
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\csi.rsp
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\System.AppContext.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\System.Collections.Immutable.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\System.IO.FileSystem.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\System.Reflection.Metadata.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\vbc.exe
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\vbc.exe.config
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\vbc.rsp
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\VBCSCompiler.exe
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\roslyn\VBCSCompiler.exe.config
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\WebApplicationOlimpiadas.dll.config
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\WebApplicationOlimpiadas.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\WebApplicationOlimpiadas.pdb
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Antlr3.Runtime.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\EntityFramework.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\EntityFramework.SqlServer.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.Agent.Intercept.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.DependencyCollector.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.Web.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.WindowsServer.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.ApplicationInsights.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.Web.Infrastructure.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Newtonsoft.Json.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.Helpers.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.Mvc.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.Optimization.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.Razor.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.WebPages.Deployment.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.WebPages.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.WebPages.Razor.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\WebGrease.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\EntityFramework.xml
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\EntityFramework.SqlServer.xml
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.Helpers.xml
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.Mvc.xml
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.Optimization.xml
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.Razor.xml
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.WebPages.xml
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.WebPages.Deployment.xml
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\System.Web.WebPages.Razor.xml
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Antlr3.Runtime.pdb
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Newtonsoft.Json.xml
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.ApplicationInsights.xml
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.DependencyCollector.xml
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.WindowsServer.xml
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\Microsoft.AI.Web.xml
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\es\System.Web.Helpers.resources.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\es\System.Web.Mvc.resources.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\es\System.Web.Optimization.resources.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\es\System.Web.Razor.resources.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\es\System.Web.WebPages.resources.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\obj\Debug\WebApplicationOlimpiadas.csprojResolveAssemblyReference.cache
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\obj\Debug\WebApplicationOlimpiadas.Migrations.InitialCreate.resources
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\obj\Debug\WebApplicationOlimpiadas.Migrations.Initial.resources
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\obj\Debug\WebApplicationOlimpiadas.csproj.GenerateResource.Cache
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\obj\Debug\WebApplicationOlimpiadas.dll
+F:\GG\USAC\APPWEB\WebApplicationOlimpiadas\WebApplicationOlimpiadas\obj\Debug\WebApplicationOlimpiadas.pdb

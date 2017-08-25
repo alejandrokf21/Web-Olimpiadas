@@ -1,0 +1,71 @@
+﻿@model IEnumerable<WebApplicationOlimpiadas.Models.TablaPrueba>
+
+@{
+    ViewBag.Title = "Resultados";
+}
+
+<h2>Resultados</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+    @using (Html.BeginForm("", "TablaPruebas", FormMethod.Get))
+    {
+        @Html.AntiForgeryToken()
+    <p>
+        Materias: @Html.DropDownList("courseList", "All")
+        Nivel: @Html.DropDownList("levelList", "All")
+        <input type="submit" value="Filter" class="btn btn-info" />
+    </p>
+    }
+<table class="table table-striped">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Correlative)
+        </th>
+        <th>
+            Good Answer
+        </th>
+        <th>
+            Wrong Answer
+        </th>
+        <th>
+            Blank Answer
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Course)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Level)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Correlative)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.goodAnswer)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.wrongAnswer)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.blankAnswer)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Course)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Level)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ID }) |
+            @*@Html.ActionLink("Details", "Details", new { id=item.ID }) |*@
+            @Html.ActionLink("Delete", "Delete", new { id=item.ID })
+        </td>
+    </tr>
+}
+
+</table>

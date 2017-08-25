@@ -1,0 +1,50 @@
+﻿@model WebApplicationOlimpiadas.Models.TablaPrueba
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>TablaPrueba</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Correlative)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Correlative)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.goodAnswer)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.goodAnswer)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.wrongAnswer)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.wrongAnswer)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.blankAnswer)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.blankAnswer)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
